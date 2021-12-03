@@ -1,0 +1,28 @@
+body{
+    background-image: url(images/80sgeo.jpg);
+    background-color: rgb(171, 236, 236);
+    background-size: contain;
+}
+
+*{
+    font-family: chonburi;
+}
+
+.jumbotron-head{
+    background-image: url(images/personcomputer.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.display-4{
+    display: flex;
+    justify-content: right;
+}
+.lead{
+    display: flex;
+    justify-content: right;
+}
+
+.card{
+    border: solid 10px lightslategrey;
+}
